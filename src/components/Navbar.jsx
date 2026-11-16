@@ -29,7 +29,7 @@ function NavBar({
           aria-label="GameForge home"
         >
           <div className="flex size-30 items-center justify-center   h-1 text-black">
-            <img src="/public/nanoDEX v2-01.png" alt="" />
+            <img src="/nanoDEX v2-01.png" alt="" />
           </div>
 
           
